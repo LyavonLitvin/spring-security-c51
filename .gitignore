@@ -15,9 +15,12 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.idea/*
+.idea/**
 *.iws
 *.iml
 *.ipr
+spring-security-c51.iml
 
 ### NetBeans ###
 /nbproject/private/
